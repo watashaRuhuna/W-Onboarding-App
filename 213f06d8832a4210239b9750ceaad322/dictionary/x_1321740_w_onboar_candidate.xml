@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="34c1de5c832a4210239b9750ceaad3fd" extends="task" label="Candidate" max_length="40" name="x_1321740_w_onboar_candidate" type="collection">
+        <element attributes="encode_utf8=false" label="Allocated Project" max_length="32" name="allocatedproject" reference="x_1321740_w_onboar_w_project" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth Date" max_length="40" name="birth_date" type="glide_date"/>
+        <element attributes="omit_sys_original=true" label="Basic Salary" max_length="20" name="currency" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Job Title" max_length="40" name="jobtitle" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Intern" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Associate Engineer" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Consultant" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Project manager" sequence="3" value="project manager"/>
+                <element inactive_on_update="false" label="Team Lead" sequence="4" value="team lead"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="manager" read_only="true" type="string"/>
+        <element label="office Email" max_length="40" name="office_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Personal Email" max_length="40" name="personalemail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Project" max_length="40" name="project" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Project 01" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Project 02" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Project 03" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Project 04" sequence="3" value="project 04"/>
+            </choice>
+        </element>
+    </element>
+</database>

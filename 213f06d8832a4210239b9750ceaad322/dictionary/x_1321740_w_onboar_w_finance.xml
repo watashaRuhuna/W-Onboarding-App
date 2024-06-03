@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f0e292dc832a4210239b9750ceaad3bc" extends="task" label="W Finance" max_length="40" name="x_1321740_w_onboar_w_finance" type="collection">
+        <element attributes="omit_sys_original=true" label="Allowances" max_length="20" name="allowances" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Basic salary" max_length="20" name="basicsalary" type="currency"/>
+    </element>
+</database>

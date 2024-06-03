@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0c83b8a483a28210239b9750ceaad390" extends="task" label="W Project" max_length="40" name="x_1321740_w_onboar_w_project" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="PM" max_length="32" name="pm" reference="x_1321740_w_onboar_w_manager" type="reference"/>
+    </element>
+</database>

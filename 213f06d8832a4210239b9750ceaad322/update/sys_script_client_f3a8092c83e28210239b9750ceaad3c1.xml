@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>urgency</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Set Priority Value</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	if (newValue == '1' ) {
+	
+		var states = 1 ;
+		g_form.setValue("priority",states);
+		
+   }
+   else if (newValue == '2' ){
+		var states = 3 ;
+		g_form.setValue("priority",states);
+   }
+
+else{
+	var states = 4 ;
+		g_form.setValue("priority",states);
+}
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 05:40:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3a8092c83e28210239b9750ceaad3c1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set Priority Value</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>sys_script_client_f3a8092c83e28210239b9750ceaad3c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 06:01:41</sys_updated_on>
+        <table>x_1321740_w_onboar_candidate</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

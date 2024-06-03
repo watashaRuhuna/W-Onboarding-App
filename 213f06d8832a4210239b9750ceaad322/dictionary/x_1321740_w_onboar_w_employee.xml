@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="90bf386083e28210239b9750ceaad3a6" extends="x_1321740_w_onboar_candidate" label="W Employee" max_length="40" name="x_1321740_w_onboar_w_employee" type="collection"/>
+</database>

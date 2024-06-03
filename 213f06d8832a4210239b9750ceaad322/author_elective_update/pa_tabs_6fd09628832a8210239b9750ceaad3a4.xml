@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Manager Dashboard - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fd09628832a8210239b9750ceaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager Dashboard - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>pa_tabs_6fd09628832a8210239b9750ceaad3a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:33</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</application>
+        <file_path/>
+        <instance_id>1d106ea51be6b51cc84543f4bd4bcb93</instance_id>
+        <instance_name>dev213740</instance_name>
+        <name>pa_tabs_6fd09628832a8210239b9750ceaad3a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Manager Dashboard - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-30 10:54:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6fd09628832a8210239b9750ceaad3a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Manager Dashboard - New Tab 2</sys_name><sys_overrides/><sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package><sys_policy/><sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope><sys_update_name>pa_tabs_6fd09628832a8210239b9750ceaad3a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-30 10:54:33</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>1685579490</payload_hash>
+        <record_name>Manager Dashboard - New Tab 2</record_name>
+        <reverted_from/>
+        <source>653f06d8832a4210239b9750ceaad325</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:58</sys_created_on>
+        <sys_id>a5f05a28832a8210239b9750ceaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fc92380b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:58</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>afd09628742a82104117924126c9e1a5</update_guid>
+        <update_guid_history>afd09628742a82104117924126c9e1a5:-2038603223,afd09628742a82104117924126c9e1a5:-2038603223,afd09628742a82104117924126c9e1a5:-2038603223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Manager Dashboard - New Tab 2">6df05a28832a8210239b9750ceaad3fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:58</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>1ada7ced825a402ca2432e0f7f5c3324</sys_id>
+        <sys_metadata>6fd09628832a8210239b9750ceaad3a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager Dashboard - New Tab 2</sys_name>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_scope_delete display_value="">67639a0b5bde423db240fd59d50a9aa1</sys_scope_delete>
+        <sys_update_name>pa_tabs_6fd09628832a8210239b9750ceaad3a4</sys_update_name>
+        <sys_update_version display_value="pa_tabs_6fd09628832a8210239b9750ceaad3a4">a5f05a28832a8210239b9750ceaad3f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

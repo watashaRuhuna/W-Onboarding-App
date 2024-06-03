@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="fc625a9c832a4210239b9750ceaad3e6" extends="asset_task" label="W Assets" max_length="40" name="x_1321740_w_onboar_w_assets" type="collection">
+        <element attributes="encode_utf8=false" label="Asset Allocated for" max_length="32" name="assetallocatedfor" reference="x_1321740_w_onboar_candidate" type="reference"/>
+    </element>
+</database>

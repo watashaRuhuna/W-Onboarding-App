@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA Manager Dashboard - New Tab 2">23d09628832a8210239b9750ceaad3a2</legacy_page>
+        <name>PA Manager Dashboard - New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:33</sys_created_on>
+        <sys_id>abd09628832a8210239b9750ceaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Manager Dashboard - New Tab 2</sys_name>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>sys_grid_canvas_abd09628832a8210239b9750ceaad3a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:33</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</application>
+        <file_path/>
+        <instance_id>1d106ea51be6b51cc84543f4bd4bcb93</instance_id>
+        <instance_name>dev213740</instance_name>
+        <name>sys_grid_canvas_abd09628832a8210239b9750ceaad3a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA Manager Dashboard - New Tab 2">23d09628832a8210239b9750ceaad3a2</legacy_page><name>PA Manager Dashboard - New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-30 10:54:33</sys_created_on><sys_id>abd09628832a8210239b9750ceaad3a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Manager Dashboard - New Tab 2</sys_name><sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package><sys_policy/><sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope><sys_update_name>sys_grid_canvas_abd09628832a8210239b9750ceaad3a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-30 10:54:33</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>214956897</payload_hash>
+        <record_name>PA Manager Dashboard - New Tab 2</record_name>
+        <reverted_from/>
+        <source>653f06d8832a4210239b9750ceaad325</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:33</sys_created_on>
+        <sys_id>e7d09628832a8210239b9750ceaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fc9231ea90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:33</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>2fd09628ee2a8210701f66050c2188a3</update_guid>
+        <update_guid_history>2fd09628ee2a8210701f66050c2188a3:214956897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:54:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>073a53c0f9c7472a94135adf9349cd84</sys_id>
+        <sys_metadata>abd09628832a8210239b9750ceaad3a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Manager Dashboard - New Tab 2</sys_name>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_scope_delete display_value="">67639a0b5bde423db240fd59d50a9aa1</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_abd09628832a8210239b9750ceaad3a2</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_abd09628832a8210239b9750ceaad3a2">e7d09628832a8210239b9750ceaad3a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:54:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

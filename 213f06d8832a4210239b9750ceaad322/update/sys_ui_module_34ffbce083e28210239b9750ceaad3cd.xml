@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="W Employee">74ffbce083e28210239b9750ceaad3ca</application>
+        <filter/>
+        <name>W Employees</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1321740_w_onboar.w_employee_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 05:01:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34ffbce083e28210239b9750ceaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>W Employees</sys_name>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>sys_ui_module_34ffbce083e28210239b9750ceaad3cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 05:01:01</sys_updated_on>
+        <table>x_1321740_w_onboar_w_employee</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

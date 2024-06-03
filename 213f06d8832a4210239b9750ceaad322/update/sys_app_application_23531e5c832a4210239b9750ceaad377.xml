@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Onboarding application by Watasha</description>
+        <device_type>browser</device_type>
+        <hint>Onboarding application by Watasha</hint>
+        <name/>
+        <order/>
+        <roles>x_1321740_w_onboar.wuser,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-29 16:26:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23531e5c832a4210239b9750ceaad377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>W Onboarding</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>sys_app_application_23531e5c832a4210239b9750ceaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-29 16:26:59</sys_updated_on>
+        <title>W Onboarding</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

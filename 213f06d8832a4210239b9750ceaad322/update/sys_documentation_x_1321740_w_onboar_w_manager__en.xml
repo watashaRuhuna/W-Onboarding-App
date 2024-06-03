@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="W Manager" language="en" table="x_1321740_w_onboar_w_manager">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>W Manager</label>
+            <language>en</language>
+            <name>x_1321740_w_onboar_w_manager</name>
+            <plural>W Managers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-30 03:25:37</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>W Manager</sys_name>
+            <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+            <sys_update_name>sys_documentation_x_1321740_w_onboar_w_manager__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-30 03:25:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA IT Manager - New Tab">f5811e28832a8210239b9750ceaad326</legacy_page>
+        <name>PA IT Manager - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-30 10:57:26</sys_created_on>
+        <sys_id>71811e28832a8210239b9750ceaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA IT Manager - New Tab</sys_name>
+        <sys_package display_value="W Onboarding" source="x_1321740_w_onboar">213f06d8832a4210239b9750ceaad322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="W Onboarding">213f06d8832a4210239b9750ceaad322</sys_scope>
+        <sys_update_name>sys_grid_canvas_71811e28832a8210239b9750ceaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-30 10:57:26</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
